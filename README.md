@@ -3,9 +3,18 @@ This Roadmap will help start the journey to software testing. Key concepts and t
 
 [Software Testing Roadmap](https://www.propeers.in/roadmaps/66827e16523eda3b2e8c8d64)
 
+[QA Engineer Roadmap](https://www.propeers.in/roadmaps/667afdd62ed36c13316a4772)
+
 # Certificate Of Completion
 ![image](https://github.com/user-attachments/assets/5add8a24-8810-4778-b950-05d72e30c6f0)
 
+# Projects
+## Automated Testing Suite for Sauce Demo
+- [Selenium](https://github.com/harsha123e/sauce-demo-automation/tree/main/java-selenium) | [Playwright](https://github.com/harsha123e/sauce-demo-automation/tree/main/playwright) | [Cypress](https://github.com/harsha123e/sauce-demo-automation/tree/main/cypress)
+- Developed automated test suites using Selenium, Playwright, and Cypress to validate key user journeys on the Sauce Demo e-commerce platform. Integrated CI/CD pipelines with GitHub Actions to enhance testing efficiency.
+## Performance Testing using Apache JMeter for Blaze Demo
+- [JMeter Blaze Demo Test](https://github.com/harsha123e/JMeter-BlazeDemo-Test)
+- Conducted performance testing using JMeter on the Blaze Demo application to simulate user behaviour, and generate detailed reports for system responsiveness.
 
 # Table of Contents
 - [Software Testing Roadmap](#software-testing-roadmap)
